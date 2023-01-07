@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Shop cart</string>
+    <string name="app_name">Black Market</string>
     <string name="no_internet">No Internet Connection</string>
 
 
@@ -23,9 +23,9 @@
     <!--    Fragment_login  -->
     <string name="login_title">Login</string>
     <string name="login_email">Email</string>
-    <string name="login_edit_email">AHamdy2508@yahoo.com</string>
+    <string name="login_edit_email"></string>
     <string name="login_password">Password</string>
-    <string name="login_edit_password">AbdelRhman</string>
+    <string name="login_edit_password"></string>
     <string name="login_login">@string/first_login</string>
     <string name="login_logging">Logging</string>
     <string name="login_dont">Don’t have an account ?</string>
@@ -37,7 +37,7 @@
     <!--    Fragment_sign_up  -->
     <string name="sign_title">Sign up</string>
     <string name="sign_name">Name</string>
-    <string name="sign_edit_name">AbdelRhman Hamdy</string>
+    <string name="sign_edit_name"></string>
     <string name="sign_email">@string/login_email</string>
     <string name="sign_edit_email">@string/login_edit_email</string>
     <string name="sign_password">@string/login_password</string>

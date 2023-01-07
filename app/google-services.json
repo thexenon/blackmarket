@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "216140470866",
+    "firebase_url": "https://black-market-a7ddd-default-rtdb.firebaseio.com",
+    "project_id": "black-market-a7ddd",
+    "storage_bucket": "black-market-a7ddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216140470866:android:8cf3954ef3b54c9760dd8b",
+        "android_client_info": {
+          "package_name": "com.optyxenon.blackmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216140470866-vcput1qu3ens4i6or8r125puts1dfqfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9zyntGsdSEus916HrZ77ZomTh7Z3I4FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216140470866-vcput1qu3ens4i6or8r125puts1dfqfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
