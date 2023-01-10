@@ -243,7 +243,7 @@ class _BodyState extends State<Body> {
                       bottomRight: Radius.circular(16),
                     ),
                   ),
-                  child: FlatButton(
+                  child: TextButton(
                     onPressed: () async {
                       String currentUserUid =
                           AuthentificationService().currentUser.uid;
