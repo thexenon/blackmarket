@@ -118,7 +118,7 @@ class _ChangePhoneNumberFormState extends State<ChangePhoneNumberForm> {
   }
 
   Widget buildCurrentPhoneNumberField() {
-    return StreamBuilder<DocumentSnapshot>(
+    return StreamBuilder<DocumentSnapshot<Map<String, dynamic>>>(
       stream: UserDatabaseHelper().currentUserDataStream,
       builder: (context, snapshot) {
         if (snapshot.hasError) {

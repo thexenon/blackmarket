@@ -327,7 +327,7 @@ class UserDatabaseHelper {
     return orderedProduct;
   }
 
-  Stream<DocumentSnapshot> get currentUserDataStream {
+  Stream<DocumentSnapshot<Map<String, dynamic>>> get currentUserDataStream {
     String uid = AuthentificationService().currentUser.uid;
     return firestore
         .collection(USERS_COLLECTION_NAME)
