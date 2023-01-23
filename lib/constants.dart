@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:blackmarket/size_config.dart';
 
-const String appName = "UENR Market Place";
+const String appName = "Black Market";
 
 const kPrimaryColor = Color(0xFF007643);
 const kPrimaryLightColor = Color(0xFFFFECDF);
